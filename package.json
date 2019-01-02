@@ -1,0 +1,22 @@
+{
+  "name": "the-way-we-die-api",
+  "version": "1.0.0",
+  "description": "express api for misc functionality",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bureau-of-Unspecified-Operations/the-way-we-die-api.git"
+  },
+  "author": "Hazard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bureau-of-Unspecified-Operations/the-way-we-die-api/issues"
+  },
+  "homepage": "https://github.com/Bureau-of-Unspecified-Operations/the-way-we-die-api#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
