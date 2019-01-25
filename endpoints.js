@@ -1,3 +1,5 @@
+//define all endppoints here, add to export
+
 var testEndpoint = {
     url: "/",
     code: function(req, res, next) {

@@ -1,3 +1,5 @@
+// Pull in the needed endpoints from other files, start express server, badabing badaboom
+
 const express = require("express");
 const app = express()
 const api = require("./endpoints")
